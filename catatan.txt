@@ -1,0 +1,6 @@
+Langkah Langkah
+
+1. Buat folder Proyek 
+2. npm init
+2. npm i @whiskeysockets/baileys axios body-parser cron dotenv express express-validator fs mysql2 nodemon qrcode request socket.io
+4. Buat File Index.js
